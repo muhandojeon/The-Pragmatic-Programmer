@@ -1,8 +1,6 @@
-<img src="https://github.com/muhandojeon/Modern-React-Deep-Dive/assets/26461307/3137b976-cbb0-4dc5-ba6e-466d9a5f9ce3" alt="모던 리액트 딥 다이브" align="right" width="200" />
+<img src="https://github.com/user-attachments/assets/70247a46-3937-4b00-afff-ac6ed966be52" alt="실용주의 프로그래머" align="right" width="200" />
 
-# 책 이름
-
-책 설명
+# 실용주의 프로그래머
 
 <br />
 <br />
